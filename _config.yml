@@ -24,12 +24,12 @@ repository               : "kimseokmin2401/kimseokmin.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Chicken pot pie"
+  name             : "Seokmin Kim"
+  pronouns         : "he/him"  
+  bio              : "I am interested in understanding the consequences of anthropogenic disturbances in ecosystems and assessing the effectiveness of conservation and management strategies. "
   location         : "Gainesville, FL"
   employer         : "University of Florida"
-  uri              : # URL
+  #uri              : # URL
   email            : "kimseokmin2401@gmail.com" 
 
   # Academic websites
